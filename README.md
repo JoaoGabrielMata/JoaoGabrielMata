@@ -1,4 +1,4 @@
-<h3 align="center">Sou desenvolvedor Front-End, desenvolvedor de Aplicativos e Desenhista e Roteirista</h3>
+<h3 align="center">Sou desenvolvedor Front-End, desenvolvedor de Aplicativos, Desenhista e Roteirista</h3>
 
 - Email para contato: **joaogabrielmta@gmail.com**
 <p align="left">
