@@ -1,7 +1,5 @@
-<h1 align="center">Oie eu sou o João Gabriel da Mata;</h1>
-<h3 align="center">Sou desenvolvedor Front-End, desenvolvedor de Aplicativos e GameDev</h3>
+<h3 align="center">Sou desenvolvedor Front-End, desenvolvedor de Aplicativos e Desenhista e Roteirista</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaogabrielmata" alt="joaogabrielmata" /></a> </p>
 - Email para contato: **joaogabrielmta@gmail.com**
 <p align="left">
 </p>
